@@ -72,15 +72,15 @@ The dataset contains 1,000 agricultural sales transactions from January 2025 to 
 
 ### City-wise Sales Revenue
 
-![City-wise Sales Revenue](images/city_wise_sales_revenue.png)
+![City-wise Sales Revenue](Images/city_wise_sales_revenue.png)
 
 ### Product-wise Sales Revenue
 
-![Product-wise Sales Revenue](images/product_wise_sales_revenue.png)
+![Product-wise Sales Revenue](Images/product_wise_sales_revenue.png)
 
 ### Month-on-Month Sales Growth
 
-![MoM Sales Growth](images/mom_sales_growth.png)
+![MoM Sales Growth](Images/mom_sales_growth.png)
 
 ## Project Structure
 
