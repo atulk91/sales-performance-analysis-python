@@ -80,7 +80,7 @@ The dataset contains 1,000 agricultural sales transactions from January 2025 to 
 
 ### Month-on-Month Sales Growth
 
-![MoM Sales Growth](Images/MoM_sales_growth.png)
+![MoM Sales Growth](Images/MoM_Sales_Growth.png)
 
 ## Project Structure
 
